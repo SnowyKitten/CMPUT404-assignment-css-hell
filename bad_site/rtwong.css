@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+p{
+	max-width: 10em;
+	font-weight: bold;
+	font-size: 25;
+}
+
+.container{
+	border-style: dotted;
+    border-width: 15px;
+	max-width: 30em;
+	border-color: purple;
+}
+
+.col{
+	font-weight:bold;
+    border-style: double;
+}
+
+.nav-wrapper{
+    background-color: yellow;
+
+}
