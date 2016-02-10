@@ -1,0 +1,9 @@
+Background - downloaded a paper background to use in the body tag
+
+h1 and h2 have left padding, and a new font. In addition, the first letter of H1 is made slightly larger than usual. To have consistency among headers, we also needed to add to a class in the Pride and Prejudice file to use the correct font.
+
+For paragraphs we set the font family to Times New Roman, and padded by 10% on the left and the right.
+
+For images, we center the image on the page and then give it an inset border of 1em to help frame it for the user.
+
+
